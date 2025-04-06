@@ -1,5 +1,4 @@
-# Analysis-of-water-consumption-patterns-and-scarcity-levels
-# 🌍💧 Global Water Consumption Dashboard
+# 🌍💧 Global Water Consumption Dashboard by Lisa Tran
 
 An interactive **R Shiny** dashboard that visualizes **global water consumption trends**, scarcity levels, and sustainability insights using **ggplot2, plotly, dplyr, and Leaflet**.
 
